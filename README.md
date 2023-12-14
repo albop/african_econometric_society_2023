@@ -1,6 +1,6 @@
 # african_econometric_society_2023
 
-Discussion [forum](https://matrix.to/#/!dCHdnkgPktjaxeNUZT:gitter.im) (for installation issues)
+Discussion [forum](https://app.gitter.im/#/room/#african-econometric-society-computational-workshop:gitter.im) (for installation issues)
 
 Download links for the notebooks:
 
